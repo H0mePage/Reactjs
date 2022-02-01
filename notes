@@ -1,0 +1,31 @@
+ReactJs     VS    DOM jS
+  |         |
+  |         |
+virtual DOM |
+TREE
+Memory Efficiency
+
+React Changes On State Change
+
+
+
+JavaScript Library for Buiding Fast And Interactive UI
+Developed By FB
+IT is View Of MVC application Model
+
+Declarative View : -
+
+   ReactJs will efficiently udated and render just the right
+   components when your Data Changes
+
+
+
+In NodeJs is Loding BASED eg. nodejs official 
+And React BASED on Not Loading APplication Like YOUTUBE
+
+
+{
+    For DOM Manupulation :: we have Queries 
+    for that use JQuery (Useful)
+    
+}
